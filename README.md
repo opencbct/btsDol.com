@@ -1,2 +1,2 @@
-# btsDol.com.github.io
-btsDol.com.github.io
+# btsdol.com
+bts7dol.com
